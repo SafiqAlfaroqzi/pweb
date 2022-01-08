@@ -50,3 +50,7 @@ p {
   color: white;
   text-decoration: none;
 }
+
+.navbar li a:last-child {
+  float: right;
+}
