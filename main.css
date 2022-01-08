@@ -11,3 +11,8 @@ hr {
   width: 30%;
   border-color: rgb(31, 30, 30);
 }
+
+h1,
+h2 {
+  text-align: center;
+}
