@@ -54,3 +54,7 @@ p {
 .navbar li a:last-child {
   float: right;
 }
+.navbar li a:hover {
+  border-radius: 5px;
+  background-color: #eaeaea;
+}
