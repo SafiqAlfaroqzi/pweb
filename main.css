@@ -1,3 +1,13 @@
 body {
-  background-color: rgb(247, 126, 172);
+  background-color: rgb(252, 164, 197);
+}
+
+hr {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border-width: 15px;
+  border-style: none;
+  border-top-style: dotted;
+  width: 30%;
+  border-color: rgb(31, 30, 30);
 }
